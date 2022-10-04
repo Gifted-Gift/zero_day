@@ -1,2 +1,1 @@
-zero_day_README
 # MY FIRST MARKDOWN
